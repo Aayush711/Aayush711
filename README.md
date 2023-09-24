@@ -1,4 +1,4 @@
-## 👋 Hello, World! I'm Aayush
+## 👋 Hello, World! I'm [Aayush](https://github.com/Aayush711)
 
 Passionate about Competitive programming and turning complex algorithms into elegant code. I thrive on tackling challenging problems and optimizing solutions for efficiency.
 
