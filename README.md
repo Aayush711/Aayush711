@@ -9,7 +9,7 @@ Passionate about Competitive programming and turning complex algorithms into ele
 - 🌐 Web Application Development, API Design, and Deployment
 
 ### 🔧 Technologies & Tools
-- 💡 Proficient in **C, C++, Python**
+- 💡 Proficient in **C, C++, Python, JavaScript**
 - 🖥️ Experienced in **MATLAB** for scientific computing and algorithm development
 - 📊 Proficient in **Google Colab** and **Jupyter Notebook** for **Machine learning** and **Data-driven**  projects
 - 🛢️ Databases: **MySQL** and **PostgreSQL**
